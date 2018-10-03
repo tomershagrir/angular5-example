@@ -1,0 +1,9 @@
+{suppliers: [
+  {sname:"amazon",sid:1},
+  {sname:"ebay",sid:2},
+],
+items:[
+    {name:"bike",sid:1,price:60,currency:"USD"},
+    {name:"bike",sid:2,price:69,currency:"USD"},
+]
+}
